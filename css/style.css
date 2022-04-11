@@ -534,7 +534,7 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url("/img/titlepage/lukas_titlepage_testing.png"); /*url(http://via.placeholder.com/610x1020);*/
+  background-image: url("/img/titlepage/lukas_titlepage.png"); /*url(http://via.placeholder.com/610x1020);*/
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
